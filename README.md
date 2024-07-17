@@ -2,6 +2,10 @@
 
 A real-time voting system where users can create a poll and other users can cast their votes. The system generates a ranking among the options and updates the votes in real-time.
 
+ Contents: Development of a back-end application in Node.js, application of REST API concepts, using TypeScript,
+ Fastify as a framework, integration of Prisma ORM, Docker to handle PostgreSQL and Redis services, Zod for data
+ validation and WebSocket for communication real-time.
+
 ## Requisites
 
 - Docker;
